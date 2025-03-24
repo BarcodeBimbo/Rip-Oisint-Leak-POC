@@ -68,7 +68,7 @@ Now that i have the logic on how data is served to the frontend it was time to r
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Rip-Oisint-Leak-POC.git
+git clone https://github.com/BarcodeBimbo/Rip-Oisint-Leak-POC.git
 cd Rip-Oisint-Leak-POC
 ```
 
