@@ -23,7 +23,7 @@ Created an account found the search api endpoint via dev-tools
   <img src="https://github.com/user-attachments/assets/bdd3b2f1-8bfa-40ee-b5ba-124bd373fc67" alt="RipOsintLeak">
 </div>
 
-After creating a request to the api i found that the repponse was encoded, so i need to dig abit to learn how data was being served on the frontend
+After creating a request to the api i found that the response was encoded, so i need to dig abit to learn how data was being served on the frontend
 
 ## More Digging
 
